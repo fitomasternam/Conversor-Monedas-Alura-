@@ -1,1 +1,5 @@
-/home/fito/Documentos/GitHub/conversor/src/main/java/com/alura/conversor/ConversorApplication.java
+/home/fito/Documentos/GitHub/Conversor-Monedas-Alura-/src/main/java/com/alura/conversor/Main.java
+/home/fito/Documentos/GitHub/Conversor-Monedas-Alura-/src/main/java/com/alura/conversor/endpoint/CurrencyEndpoint.java
+/home/fito/Documentos/GitHub/Conversor-Monedas-Alura-/src/main/java/com/alura/conversor/model/CurrencyResponseDTO.java
+/home/fito/Documentos/GitHub/Conversor-Monedas-Alura-/src/main/java/com/alura/conversor/service/ServiceCurrency.java
+/home/fito/Documentos/GitHub/Conversor-Monedas-Alura-/src/main/java/com/alura/conversor/util/ExchangeApi.java

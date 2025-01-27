@@ -1,1 +1,5 @@
-com/alura/conversor/ConversorApplication.class
+com/alura/conversor/service/ServiceCurrency.class
+com/alura/conversor/endpoint/CurrencyEndpoint.class
+com/alura/conversor/Main.class
+com/alura/conversor/util/ExchangeApi.class
+com/alura/conversor/model/CurrencyResponseDTO.class
